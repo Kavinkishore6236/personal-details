@@ -1,0 +1,46 @@
+.lk{
+    
+    display: block;
+    margin: auto;
+    width: 1200px;
+    background-color: blanchedalmond;
+
+}.column{
+    padding: 50px;
+    font-weight: bold;
+    color: red;
+    
+}.column1{
+    padding: 50px;
+    font-weight: bold;
+    color: red;
+}
+.column2{
+    padding: 50px;
+    font-weight: bold;
+    color: red;
+}
+h1{text-align: center;}
+input{
+    height: 30px;
+    transition: transfrom 0.3s ease;
+}input:hover{
+    transform: scale(1.1);
+}
+body{
+    background-color: rgb(247, 237, 226);
+}
+.button{
+    display: block;
+    margin:auto;
+    height: 30px;
+    width: 90px;
+    background-color: rgb(87, 87, 241);
+    color: aliceblue;
+    font-weight: bold;
+    border-color: aliceblue;
+    cursor: pointer;
+    transition:transform 0.3s ease ;
+}.button:hover{
+    transform:scale(1.1)  ;
+}
